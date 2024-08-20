@@ -1,0 +1,66 @@
+body{
+    font-family:"Open Sans", sans-serif; 
+    margin: 0 15% 20px 15%;
+}
+.cabecalho{
+    text-align: center;
+    width: 969px;
+    top: 74px;
+    left: 235px;
+}
+h1{
+    color: black;
+    font-size: 56px;
+    line-height: 64px;
+    text-align: left;
+}
+h2{
+    color: black;
+    font-size: 32px;
+    margin: 10px 0 10px 0;
+}
+p{
+    size: 18px;
+    line-height: 28px;
+    color: #555555;
+    text-align: left;
+}  
+.subtitulo{
+    font-size: 18px;
+}
+.autor{
+    font-size: 16px;
+}
+.data{
+    font-size: 12px;
+
+}
+hr{
+    
+    margin: 20px -30px 60px -30px;
+}
+main{
+    color: #333333;
+    text-align: justify;
+    
+}
+ul{
+    color:#A6130A;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+}
+li{
+    margin: 10px;
+}
+span{
+    font-weight: bold;
+    color: #A6130A;
+}
+blockquote{
+    border-left: 3px solid #A6130A;
+    font-weight: bold;
+    font-size: 28px;
+    padding-left: 20px;
+    margin-left: 0;
+}
